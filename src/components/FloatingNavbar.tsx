@@ -54,13 +54,6 @@ const FloatingNavbar = () => {
             </Button>
             <Button
               variant="ghost"
-              onClick={() => scrollTo("products")}
-              className="text-foreground hover:text-primary transition-colors"
-            >
-              Products
-            </Button>
-            <Button
-              variant="ghost"
               onClick={() => scrollTo("contact")}
               className="text-foreground hover:text-primary transition-colors"
             >

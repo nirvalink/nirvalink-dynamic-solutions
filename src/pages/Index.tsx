@@ -1,7 +1,6 @@
 import FloatingNavbar from "@/components/FloatingNavbar";
 import HeroSection from "@/components/HeroSection";
 import ServicesSection from "@/components/ServicesSection";
-import ProductsSection from "@/components/ProductsSection";
 import AboutSection from "@/components/AboutSection";
 import ContactSection from "@/components/ContactSection";
 
@@ -11,7 +10,6 @@ const Index = () => {
       <FloatingNavbar />
       <HeroSection />
       <ServicesSection />
-      <ProductsSection />
       <AboutSection />
       <ContactSection />
       
@@ -35,12 +33,12 @@ const Index = () => {
               </ul>
             </div>
             <div>
-              <h4 className="font-semibold mb-4">Products</h4>
+              <h4 className="font-semibold mb-4">Company</h4>
               <ul className="space-y-2 text-muted-foreground">
-                <li>NirvaWeb Suite</li>
-                <li>NirvaMobile Pro</li>
-                <li>NirvaSecure</li>
-                <li>NirvaAnalytics</li>
+                <li>About Us</li>
+                <li>Our Team</li>
+                <li>Careers</li>
+                <li>Privacy Policy</li>
               </ul>
             </div>
             <div>
