@@ -20,9 +20,6 @@ const AboutSection = () => {
   ];
 
   const achievements = [
-    "50+ Successful Projects Delivered",
-    "24/7 Technical Support & Maintenance",
-    "100% Client Satisfaction Rate",
     "ISO 27001 Security Compliance",
     "Agile Development Methodologies",
     "Cross-Industry Expertise"
